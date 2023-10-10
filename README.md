@@ -1,2 +1,2 @@
-# telegtamBot
+# telegramBot
 For GlitchApp
